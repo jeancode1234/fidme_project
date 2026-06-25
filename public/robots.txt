@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /addresses
+Disallow: /en/admin
+Disallow: /en/dashboard
+Disallow: /en/addresses
+
+Sitemap: https://findme.geolink.africa/sitemap.xml
